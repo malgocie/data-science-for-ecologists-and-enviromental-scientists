@@ -80,9 +80,7 @@ To run the code in this repository, you will need Python installed (preferably 3
 
    ```bash
 
-   git clone [https://github.com/malgocie/data-science-for-ecologists-and-enviromental-scientists
-.git](https://github.com/malgocie/data-science-for-ecologists-and-enviromental-scientists
-.git)
+   git clone [https://github.com/malgocie/data-science-for-ecologists-and-enviromental-scientists.git](https://github.com/malgocie/data-science-for-ecologists-and-enviromental-scientists.git)
 
    cd data-science-for-ecologists-and-enviromental-scientists
 
@@ -133,10 +131,4 @@ In accordance with their terms of use, this derivative work is shared under the 
 
 
 *Disclaimer: This repository is an independent translation effort and is not officially affiliated with or endorsed by the Coding Club.*
-
-
-
-
-3. As you finish translating a tutorial, you can turn the `[ ]` into `[x]` in the progress checklist and add a markdown link to the specific file.
-
  
