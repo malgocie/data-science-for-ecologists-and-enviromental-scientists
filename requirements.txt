@@ -1,0 +1,23 @@
+# --- Notebook Environment ---
+jupyter      # For running Jupyter Notebooks (.ipynb)
+ipykernel    # Needed to run Python inside the notebooks
+
+# --- Data Manipulation (Your dplyr / tidyr replacements) ---
+numpy        # Core numerical operations
+pandas       # DataFrames, filtering, and data wrangling
+
+# --- Data Visualisation (Your ggplot2 replacements) ---
+matplotlib   # Base plotting library (similar to base R plots)
+seaborn      # Statistical data visualization (cleaner aesthetics)
+plotnine     # A Python implementation of a Grammar of Graphics (works exactly like ggplot2!)
+
+# --- Modelling & Statistics (Your lm() and lme4 replacements) ---
+scipy        # Core statistical functions and tests
+statsmodels  # Linear models, mixed-effects models, and statistical summaries
+scikit-learn # Machine learning and predictive modeling
+
+# --- Geospatial Analysis (Your sf / raster / terra replacements) ---
+geopandas    # Spatial dataframes (vector data)
+shapely      # Geometric operations 
+folium       # Interactive maps (like leaflet in R)
+# rasterio   # Uncomment this when you reach raster data, it can sometimes be tricky to install!
